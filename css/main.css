@@ -5,6 +5,8 @@
   font-size: 50px;
   color: #fff;
 }
+
+
 .section-1 {
   height: 100vh;
   color: #123a4e;
@@ -56,3 +58,8 @@
 .nav-list__item-link--active, .nav-list__item-link:hover {
   background-color: #979fbf;
 }
+
+section.test {
+	background-color: red;
+}
+

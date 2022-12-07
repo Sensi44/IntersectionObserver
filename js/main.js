@@ -8,6 +8,7 @@ const observer = new IntersectionObserver((entries) => {
         link.classList.toggle('nav-list__item-link--active',
           getId(link) === entry.target.id)
       })
+      
     }
   })
 }, {
